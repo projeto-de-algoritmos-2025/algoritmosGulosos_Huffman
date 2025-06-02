@@ -15,7 +15,11 @@ Este projeto é uma aplicação interativa desenvolvida com **React**, utilizand
 O objetivo é demonstrar visualmente a construção da **Árvore de Huffman**, algoritmo clássico de compressão de dados. O usuário pode acompanhar passo a passo a união dos nós e observar os **códigos binários gerados** para cada caractere do texto.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+<div style="display: flex; gap: 10px;">
+  <img src="huffman-web/src/assets/image.png" alt="Demonstração 1" width="32%" />
+  <img src="huffman-web/src/assets/image2.png" alt="Demonstração 2" width="32%" />
+  <img src="huffman-web/src/assets/image3.png" alt="Demonstração 3" width="32%" />
+</div>
 
 ## Tecnologias Utilizadas  
 - **Linguagem**: JavaScript (React)  
