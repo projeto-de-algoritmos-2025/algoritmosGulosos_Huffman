@@ -2,7 +2,7 @@
 ![Demonstração](assets/demo.gif)
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
-**Video da apresentação**: [algoritmosGulosos_Huffman](https://youtu.be/ZXEWLwLtZCQ)<br>
+**Video da apresentação**: disponivel na descripition do repositório<br>
 
 ## Alunos
 |Matrícula | Aluno |
